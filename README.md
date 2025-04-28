@@ -7,12 +7,20 @@ I've used a variety of Machine Learning algorithms, implemented in Python, to pr
 
 Machine Learning Models:
 
-Logistic Regression (Scikit-learn)
-Naive Bayes (Scikit-learn)
-Support Vector Machine (Linear) (Scikit-learn)
-K-Nearest Neighbours (Scikit-learn)
-Decision Tree (Scikit-learn)
-Random Forest (Scikit-learn)
-XGBoost (Scikit-learn)
-Artificial Neural Network with 1 Hidden Layer (Keras)
+Logistic Regression 
+
+Naive Bayes 
+
+Support Vector Machine 
+
+K-Nearest Neighbours 
+
+Decision Tree 
+
+Random Forest 
+
+XGBoost 
+
+Artificial Neural Network with 1 Hidden Layer 
+
 Accuracy achieved: 100% (Random Forest, Decision Tree, XGBoost)
